@@ -1,0 +1,11 @@
+﻿# Examen PJEI
+
+1. ¿Qué es un commit?
+2.
+
+	Es cuando un usuario puede editar cualquier proyecto creado por otra persona pudiendo añadir lo que el quiera siempre y cuando no pise lo creado anteriormente
+
+
+ **Si la Tierra no es plana, ¿por qué se le llama "planeta"?**
+
+	¿Porque todo junto se escribe separado y separado se escribe todo junto?
